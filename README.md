@@ -10,6 +10,8 @@
   <a href="https://josephy.ir"><img src="https://img.shields.io/badge/Portfolio-josephy.ir-111827?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/ali-yousefi-choobini"><img src="https://img.shields.io/badge/LinkedIn-Ali%20Yousefi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/ali.yousefi.ir"><img src="https://img.shields.io/badge/Instagram-ali.yousefi.ir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://t.me/contact_yousefi"><img src="https://img.shields.io/badge/Telegram-@contact__yousefi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/kopolart"><img src="https://img.shields.io/badge/Telegram%20Channel-@kopolart-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="KopolArt Telegram channel"/></a>
   <a href="mailto:alijosephy2019@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -29,7 +31,15 @@ I'm a software engineer with **6+ years of experience** designing, building, and
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,tailwind,bootstrap,py,sklearn,pandas,numpy,mysql,linux,git,github&theme=dark" alt="Development skills"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,tailwind,bootstrap,py,sklearn,linux,git,github&theme=dark" alt="Development skills"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 <p>
@@ -86,10 +96,9 @@ I'm a software engineer with **6+ years of experience** designing, building, and
 - **B.Sc. in Computer Engineering (Software Engineering)**, Sepahan Institute of Higher Education, 2018 – 2022, GPA 17.53/20
 - ASP.NET Core Comprehensive Web Development (TopLearn)
 - ASP.NET MVC Core & Clean Architecture (TopLearn)
-- Advanced Web API in ASP.NET (Daneshjooyar)
 - Advanced .NET MAUI Cross-Platform Development (TopLearn)
-- Linux Server Administration Fundamentals (Daneshjooyar)
 - ORCID: [0009-0007-8108-8938](https://orcid.org/0009-0007-8108-8938)
+- Google Scholar: [View profile](https://scholar.google.com/citations?user=7YGviM0AAAAJ&hl=en)
 
 ## 🔬 Research Interests
 
@@ -110,6 +119,7 @@ I'm open to:
 
 - Open-source projects with C# / ASP.NET Core
 - Academic collaboration on cloud computing and machine learning
+- Teaching and mentoring in programming, web development, and artificial intelligence
 - Persian/RTL web and UI projects
 - Consulting on .NET architecture, technical SEO, and design
 
@@ -117,7 +127,8 @@ I'm open to:
 
 - 🌐 [kopolart.ir](https://kopolart.ir) · 💼 [josephy.ir](https://josephy.ir)
 - 🔗 [LinkedIn](https://linkedin.com/in/ali-yousefi-choobini) · 📸 [@ali.yousefi.ir](https://instagram.com/ali.yousefi.ir)
-- ✉️ alijosephy2019@gmail.com
+- ✈️ Telegram: [@contact_yousefi](https://t.me/contact_yousefi) · Channel: [@kopolart](https://t.me/kopolart)
+- ✉️ contact.yousefi@gmail.com
 
 ---
 
