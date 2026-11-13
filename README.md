@@ -118,13 +118,6 @@ Open-source tools I build and maintain — documentation, Windows utilities, bro
 - 🤖 Machine learning, classification, and data mining
 - 🛡️ ML-based intrusion detection in SDN environments
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kopolart&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopolart&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
 ## 🤝 Let's Collaborate
 
 I'm open to:
