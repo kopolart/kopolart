@@ -72,7 +72,7 @@ Full list: [ORCID](https://orcid.org/0009-0007-8108-8938) · [Google Scholar](ht
 | 🎨 **[KopolArt Platform](https://kopolart.ir)** | High-traffic color intelligence and design resource platform built on ASP.NET Core with Clean Architecture. Scores **95+ on Google Lighthouse** across all metrics. |
 | 🧠 **[Sepahan Counseling & Psychology Center](https://moshaver.sepahan.ac.ir/)** | Psychology and counseling website, designed in **Summer 2026** and actively supported to the present. Includes online appointment booking and technical SEO. |
 | 📈 **[TraderFa](https://traderfa.com)** | Online trading and financial services web portal built in Summer 2022 with ASP.NET Core and Tailwind CSS. Includes dynamic cart mechanics, payment gateway integration, automated invoicing, and transaction verification. |
-| 🔌 **[Kopolart Color API](https://kopolart.github.io/kopolart-color-api/docs/)** | Free public REST API (`kopolart.ir/api/color/{hex}`) returning bilingual color names, RGB/HSL/CMYK, wavelength, purity, complements, and similar palettes. |
+| 🔌 **[KopolArt Color API](https://kopolart.github.io/kopolart-color-api/docs/)** | Free public REST API (`kopolart.ir/api/color/{hex}`) returning bilingual color names, RGB/HSL/CMYK, wavelength, purity, complements, and similar palettes. |
 | 🤖 **[AI Color Palette Engine](https://kopolart.ir/tools/color-ai)** | Palette recommendation engine using decision trees trained on Kaggle datasets and 5+ years of user interaction data. |
 | 📱 **KopolArt.Mobile** | .NET MAUI Android app with a native shell for KopolArt. |
 | 🖥️ **KopolArt.Windows** | Bilingual Windows Forms desktop app with an embedded WebView. |
@@ -88,8 +88,8 @@ Open-source research code, documentation, Windows utilities, browser tooling, an
 |------------|--------------|-------|
 | ☁️ **[Throttled-ESCE Hybrid Load Balancer](https://github.com/kopolart/throttled-esce-hybrid-lb)** | Research code for the hybrid Throttled-ESCE load balancer for heterogeneous cloud environments. | Java |
 | 🤖 **[KNN Color Classification](https://github.com/kopolart/knn-color-classification)** | Two-stage hierarchical KNN for bilingual Persian/English color naming from hex codes. | Python · scikit-learn |
-| 🎨 **[Kopolart Color API Docs](https://github.com/kopolart/kopolart-color-api)** | Documentation for the free color API: bilingual names, RGB/HSL/CMYK, wavelength, purity, complements. [Live reference](https://kopolart.github.io/kopolart-color-api/docs/) | OpenAPI 3.1 · Redoc |
-| 🎯 **[Kopolart Palette](https://github.com/kopolart/kopolart-palette)** | Chrome/Edge extension that extracts website palettes with Persian color names and WCAG contrast. [Download](https://github.com/kopolart/kopolart-palette/releases) | JavaScript · Manifest V3 |
+| 🎨 **[KopolArt Color API Docs](https://github.com/kopolart/kopolart-color-api)** | Documentation for the free color API: bilingual names, RGB/HSL/CMYK, wavelength, purity, complements. [Live reference](https://kopolart.github.io/kopolart-color-api/docs/) | OpenAPI 3.1 · Redoc |
+| 🎯 **[KopolArt Palette](https://github.com/kopolart/kopolart-palette)** | Chrome/Edge extension that extracts website palettes with Persian color names and WCAG contrast. [Download](https://github.com/kopolart/kopolart-palette/releases) | JavaScript · Manifest V3 |
 | 🖼️ **[Image Compressor & Resizer Pro](https://github.com/kopolart/image-compressor-pro)** | Windows app to resize, compress, and convert images with live output-size estimation. [Download](https://github.com/kopolart/image-compressor-pro/releases) | C# · WinForms · .NET 4.8 |
 | ⚡ **[Code Minifier Pro](https://github.com/kopolart/CodeMinifier)** | Offline, syntax-aware CSS and JavaScript minifier for Windows. [Download](https://github.com/kopolart/CodeMinifier/releases) | C# · WinForms · .NET 4.8 |
 
